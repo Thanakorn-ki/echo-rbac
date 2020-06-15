@@ -1,0 +1,17 @@
+p, head_of_engineer, /codebase/*, *
+p, head_of_engineer, /setting*, *
+
+p, develop, /codebase/*, GET
+
+p, manager, /finance/*, GET|POST
+
+p, admin_group, *, *
+
+
+g, aum, develop
+
+g, batman, head_of_engineer
+
+g, john, manager
+
+g, bob, admin_group
